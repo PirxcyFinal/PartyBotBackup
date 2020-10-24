@@ -1,4 +1,4 @@
-# PartyBot
+# PartyBot (By xMistt)
 
 [![Run on Repl.it](https://repl.it/badge/github/xmistt/partybotpackage)](https://repl.it/github/xmistt/partybot)
 
