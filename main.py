@@ -10,7 +10,9 @@ if not os.getenv('DEVICE_ID') and \
           "If you're confused, re-watch the tutorial.")
     sys.exit()
 
+os.system('pip install certifi')
 os.system('pip install -U PartyBotPackage')
+os.system('pip3 install -U PartyBotPackage')
 os.system('clear')
 
 import PartyBotPackage
